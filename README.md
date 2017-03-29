@@ -8,6 +8,10 @@ https://kotlinconf.com/
 
 11/02-03
 
+### Location
+
+San Francisco
+
 ### Duration of session
 
 1 hour
