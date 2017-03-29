@@ -44,4 +44,8 @@ While the focus of the conference is Kotlin, it does not mean that the talk has 
 * Twitter
 * Blog
 
+### Prize!!!
 
+* travel -> expenses covered
+* accommodation -> expenses covered
+* event fee -> free for speakers
