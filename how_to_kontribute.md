@@ -21,5 +21,5 @@ After this talk, you will be ready to send pull requests to one of the best comp
 
 The expected audience should know the followings:
 
-* How to use Git/GitHub (fork/clone/commit/pull request)
+* Git/GitHub
 * Kotlin syntax
