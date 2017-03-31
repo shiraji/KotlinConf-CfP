@@ -4,8 +4,11 @@ Intellij plugins with Kotlin!
 
 # Description
 
-今まで10以上のIntellij pluginをKotlinでリリースしてきました。
+今まで15以上のIntellij pluginをリリースしました。
 
 https://plugins.jetbrains.com/author/shiraji
 
-この経験から、Kotlinの
+このうち、10プロジェクトでKotlinを採用しました。
+
+この経験から、Kotlin採用して良かった点・悪かった点を紹介したいと思います。
+
