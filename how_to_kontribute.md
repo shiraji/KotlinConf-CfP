@@ -20,6 +20,5 @@ The expected outlines are followings:
 * Developing one of Kotlin plugin features
 * Implementing unit tests
 * Sending a pull request
-* Other tips
 
 After this talk, you will be ready to send pull requests to one of the best computer languages in the world!
