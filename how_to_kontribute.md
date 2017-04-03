@@ -8,6 +8,11 @@ Do you want to send patches to Kotlin? Do you want to know what the best practis
 
 This talk will explain how to send patches to Kotlin (mainly Kotlin plugin) repository as an external contributor.
 
+The expected audience should know the followings:
+
+* Git/GitHub
+* Kotlin syntax
+
 The expected outlines are followings:
 
 * Setup development environment
@@ -18,8 +23,3 @@ The expected outlines are followings:
 * Other tips
 
 After this talk, you will be ready to send pull requests to one of the best computer languages in the world!
-
-The expected audience should know the followings:
-
-* Git/GitHub
-* Kotlin syntax
