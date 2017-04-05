@@ -27,3 +27,14 @@ Tool windowを使ったIntellijプラグインです。
 * Databinding Support ( https://github.com/shiraji/databinding-support )
 
 custom intentionを多く実装しているAndroid用のプラグインです。
+
+## 良かった点
+
+* 文法が楽
+* JavaのAPIをそのまま使える。
+
+## 悪かった点
+
+* GUI designerがないので、ToolwindowやWizardなどSwingに依存している部分は若干Javaを書く必要が出て来る。
+* 過去のIDEバージョン対応する場合、Kotlin Runtime Libが必要になってくる。
+* Kotlinのbeta/alphaユーザが時々Kotlin側の問題で落ちた場合、そのクラッシュレポートをしてくる。
