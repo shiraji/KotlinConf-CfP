@@ -4,11 +4,11 @@ Intellij plugins with Kotlin!
 
 # Description
 
-今まで15以上のIntellij pluginをリリースしました。
+*** Think catchy first sentense!!! ***
 
-https://plugins.jetbrains.com/author/shiraji
+I have been maintaining more than 10 Intellij Plugins using Kotlin. https://plugins.jetbrains.com/author/shiraji
 
-このうち、10プロジェクトでKotlinを採用しました。それらのプラグインを紹介しつつ、Kotlinを採用して良かった点・悪かった点を上げていきたいと思います。
+This talk will introduce these plugins and show pros/cons about using Kotlin. 
 
 紹介する予定のプラグインは以下です。
 
