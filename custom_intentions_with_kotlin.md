@@ -1,18 +1,14 @@
 # Session title
 
-Custom intentions with Kotlin!
+How to Extend Alt+Enter
 
 # Description
 
-Intellijの機能の一つにIntentionという機能があります。このIntentionは好きにカスタマイズ出来ます。
+How many times do you hit Alt+Enter in a day? Intellij has a feature calls Intention. We can customize Intention!
 
-私はAndroid開発で必要になったカスタムIntentionをKotlinで作成し、公開しています。
+This talk explains how to create Intention using Kotlin based on what I released https://plugins.jetbrains.com/plugin/9271-databinding-support
 
-https://plugins.jetbrains.com/plugin/9271-databinding-support
+The expected outline is followings:
 
-このトークでは、このKotlinで作られたプラグインの作成仮定を紹介することにより、KotlinでのCustom Intentionの作り方を紹介したいと思います。
-
-アウトラインは以下になる予定です。
-
-* Intentionとは
+* What is Intention
 * 
