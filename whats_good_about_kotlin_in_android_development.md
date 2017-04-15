@@ -13,3 +13,4 @@ Android開発で頻出の書き方をJavaとKotlinで表記して、Android開�
 * DatabindingのBindingAdapter指定方法
 * createIntent/newInstance
 * BaseObservable
+
