@@ -6,11 +6,10 @@ What's Good About Kotlin in Android Development
 
 Android開発で頻出の書き方をJavaとKotlinで表記して、Android開発でのKotlinの良さを話します。
 
-このトークは　[What's Good About Kotlin in Android Development](http://shiraji.github.io/blog/2016/12/11/whats-good-about-kotlin-in-android-development/)　をベースにして、以下の項目の比較をしていきます。
+This talk based on what I wrote at [What's Good About Kotlin in Android Development](http://shiraji.github.io/blog/2016/12/11/whats-good-about-kotlin-in-android-development/)
 
-* パラメータのデフォルト値
-* Singleton
-* DatabindingのBindingAdapter指定方法
+* Custom View with default parameters
+* BindingAdapter
 * createIntent/newInstance
+* Registering event listeners using Databinding
 * BaseObservable
-
