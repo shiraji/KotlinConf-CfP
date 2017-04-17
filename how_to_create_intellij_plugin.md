@@ -10,10 +10,11 @@ I have been maintaining more than 10 Intellij Plugins using Kotlin. https://plug
 
 This talk will introduce these plugins and show pros/cons about using Kotlin. 
 
-紹介する予定のプラグインは以下です。
+The expected plugins I will talk about are followings:
 
 * find-pull-request(https://github.com/shiraji/find-pull-request)
 
+My first plugin written in Kotlin. 
 初めてフルKotlinで作成したプラグインです。対象の行のコミットが入ったPull Requestを見つけて、そのPull RequestのURLを開くというものです。
 
 * gradle-intellij-plugin wizard
