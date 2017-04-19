@@ -14,27 +14,26 @@ The expected plugins I will talk about are followings:
 
 * [find-pull-request](https://github.com/shiraji/find-pull-request)
 
-My first plugin written in Kotlin. 
-初めてフルKotlinで作成したプラグインです。対象の行のコミットが入ったPull Requestを見つけて、そのPull RequestのURLを開くというものです。
+My first plugin written in Kotlin. It add right click menu and jump to pull request page.
 
 * [gradle-intellij-plugin wizard](https://github.com/shiraji/intellij-plugin-with-gradle-wizard)
 
-gradle intellij pluginを便利にするwizardを作りました。これはKotlinとJavaの混合プロジェクトです。
+Custom wizard for [gradle intellij plugin](https://github.com/JetBrains/gradle-intellij-plugin). This plugin is combination of Kotlin and Java
 
 * [Android Color Manager]( https://github.com/shiraji/color-manager )
 
-Tool windowを使ったIntellijプラグインです。
+Intellij plugin with Tool window
 
 * [Databinding Support]( https://github.com/shiraji/databinding-support )
 
-custom intentionを多く実装しているAndroid用のプラグインです。
+Lots of custom intentions
 
-## 良かった点
+## Pros
 
 * 文法が楽
 * JavaのAPIをそのまま使える。
 
-## 悪かった点
+## Cons
 
 * GUI designerがないので、ToolwindowやWizardなどSwingに依存している部分は若干Javaを書く必要が出て来る。
 * 過去のIDEバージョン対応する場合、Kotlin Runtime Libが必要になってくる。
