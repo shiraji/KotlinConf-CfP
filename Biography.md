@@ -1,0 +1,1 @@
+I (Yoshinori Isogai or shiraji at GitHub) started my career as a Java developer in 2007. From 2015, I began to contribute to OSS projects which are libraries for Android/iOS and Intellij plugins. I have been contributing Kotlin since July 2016. 
