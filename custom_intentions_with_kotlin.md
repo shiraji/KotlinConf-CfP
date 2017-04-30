@@ -11,4 +11,6 @@ This talk explains how to create Intention using Kotlin based on what I released
 The expected outline is followings:
 
 * What is Intention
-* 
+* What the differences between Inspection and Intention
+* How to create custom Intention
+* How to test custom Intention
