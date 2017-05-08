@@ -1,5 +1,7 @@
 # KotlinConf-CfP
 
+This repository is done for now. The result will be until June 12.
+
 ### URL
 
 https://kotlinconf.com/
